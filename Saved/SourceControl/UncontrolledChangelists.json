@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/AlexD3F/Documents/Unreal Projects/Uni/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/AlexD3F/Documents/Unreal Projects/Uni/Content/Levels/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/AlexD3F/Documents/Unreal Projects/Uni/Content/Levels/VRTemplateMap.umap",
+				"C:/Users/AlexD3F/Documents/Unreal Projects/Uni/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/AlexD3F/Documents/Unreal Projects/Uni/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/AlexD3F/Documents/Unreal Projects/Uni/Content/Levels/Landskape.umap",
+				"C:/Users/AlexD3F/Documents/Unreal Projects/Uni/Content/Booleans/Landskape/Boolean_8C38B5BE.uasset",
+				"C:/Users/AlexD3F/Documents/Unreal Projects/Uni/Content/Booleans/Landskape/Boolean_ED74A2F9.uasset",
+				"C:/Users/AlexD3F/Documents/Unreal Projects/Uni/Content/Booleans/Landskape/Boolean_FDD31D76.uasset",
+				"C:/Users/AlexD3F/Documents/Unreal Projects/Uni/Content/Booleans/Landskape/Floor.uasset",
+				"C:/Users/AlexD3F/Documents/Unreal Projects/Uni/Content/Booleans/Landskape/Boolean_04581D00.uasset",
+				"C:/Users/AlexD3F/Documents/Unreal Projects/Uni/Content/Booleans/Landskape/Windowws.uasset",
+				"C:/Users/AlexD3F/Documents/Unreal Projects/Uni/Content/Booleans/Landskape/Boolean_76599E06.uasset"
+			]
+		}
+	]
+}

@@ -1322,3 +1322,140 @@ The following settings have been applied:
 [2024.06.01-14.11.55:918][705]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/Iustins_Mission_Trigger_Auto2980C81AF4D42F668AE7333B8F8577981.tmp' to '../../../../../../Universitate/Uni/Saved/Autosaves/Game/Iustins_Mission_Trigger_Auto2.uasset'
 [2024.06.01-14.11.55:919][705]LogFileHelpers: Auto-saving content packages took 0.005
 [2024.06.01-14.41.57:486][109]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.01-14.52.17:588][536]LogHttp: Warning: 000004D6D5227E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.06.01-14.52.17:588][536]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 0 (Found bundle for host: 0x4d651150bd0 [serially])
+[2024.06.01-14.52.17:588][536]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.06.01-14.52.17:588][536]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.01-14.52.17:588][536]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.06.01-14.52.17:588][536]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.06.01-14.52.17:588][536]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.01-14.52.17:588][536]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.06.01-14.52.17:588][536]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 7 (Closing connection)
+[2024.06.01-14.52.17:588][536]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.06.01-14.52.17:588][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.06.01-14.52.17:588][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.06.01-14.52.17:588][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2D6B7A9F-4419-3F34-BD9A-6F9FBE393DDA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=3f9c1aa44e29336481b4f2b53430aa85%7Cbb4d96a523ab4c4ca5ccbce75bd4bb4c%7C78931bd1-77d2-4a2a-ae0e-0f941821c158&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.01-14.52.17:588][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 12 (  Trying 52.21.119.47:443...)
+[2024.06.01-14.52.17:588][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (52.21.119.47) port 443)
+[2024.06.01-14.52.17:588][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2024.06.01-14.52.17:588][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 15 (SSL reusing session ID)
+[2024.06.01-14.52.17:588][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.01-14.52.17:588][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.06.01-14.52.17:588][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2024.06.01-14.52.17:588][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2024.06.01-14.52.17:588][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 22 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 23 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 24 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 25 (ALPN: server accepted http/1.1)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 26 (Server certificate:)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 27 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 28 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 29 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 30 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 31 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 32 ( SSL certificate verify ok.)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 33 (using HTTP/1.1)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 34 (necessary data rewind wasn't possible)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 35 (Closing connection)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: 000004D6D5227E00: libcurl info message cache 36 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.01-14.52.17:589][537]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2D6B7A9F-4419-3F34-BD9A-6F9FBE393DDA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=3f9c1aa44e29336481b4f2b53430aa85%7Cbb4d96a523ab4c4ca5ccbce75bd4bb4c%7C78931bd1-77d2-4a2a-ae0e-0f941821c158&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.01-15.41.57:487][474]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.03-11.07.30:334][757]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [154571 Seconds] waiting for h/w. InstanceID=1
+[2024.06.03-11.07.30:359][757]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.06.03-11.07.35:335][757]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.06.03-11.07.40:802][758]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8032
+[2024.06.03-11.07.40:916][758]LogAutomationController: Ignoring very large delta of 154580.95 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.03-11.07.41:162][758]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60679'.
+[2024.06.03-11.07.41:261][758]LogUdpMessaging: Display: Added local interface '172.24.32.1' to multicast group '230.0.0.1:6666'
+[2024.06.03-11.07.41:321][759]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.06.03-11.07.41:645][760]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{be363397-2453-4ffd-bcfe-06356e6d436b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=537.81
+[2024.06.03-11.07.41:648][760]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.06.03-11.07.41:652][760]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.06.03-11.07.43:498][765]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:50063'.
+[2024.06.03-11.07.43:503][765]LogUdpMessaging: Display: Added local interface '172.24.32.1' to multicast group '230.0.0.1:6666'
+[2024.06.03-11.07.43:635][766]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.06.03-11.07.45:719][771]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60810'.
+[2024.06.03-11.07.45:724][771]LogUdpMessaging: Display: Added local interface '172.24.32.1' to multicast group '230.0.0.1:6666'
+[2024.06.03-11.07.50:749][787]LogHttp: Warning: 000004D6D522B600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.06.03-11.07.50:749][788]LogHttp: Warning: 000004D6D522B600: libcurl info message cache 0 (Too old connection (154602 seconds idle), disconnect it)
+[2024.06.03-11.07.50:749][788]LogHttp: Warning: 000004D6D522B600: libcurl info message cache 1 (Connection 10 seems to be dead)
+[2024.06.03-11.07.50:749][788]LogHttp: Warning: 000004D6D522B600: libcurl info message cache 2 (Closing connection)
+[2024.06.03-11.07.50:749][788]LogHttp: Warning: 000004D6D522B600: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.06.03-11.07.50:749][788]LogHttp: Warning: 000004D6D522B600: libcurl info message cache 4 (Send failure: Connection was reset)
+[2024.06.03-11.07.50:749][788]LogHttp: Warning: 000004D6D522B600: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2024.06.03-11.07.50:749][788]LogHttp: Warning: 000004D6D522B600: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.06.03-11.07.50:749][788]LogHttp: Warning: 000004D6D522B600: libcurl info message cache 7 (Closing connection)
+[2024.06.03-11.07.50:749][788]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2D6B7A9F-4419-3F34-BD9A-6F9FBE393DDA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=3f9c1aa44e29336481b4f2b53430aa85%7Cbb4d96a523ab4c4ca5ccbce75bd4bb4c%7C78931bd1-77d2-4a2a-ae0e-0f941821c158&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.03-11.10.08:120][150]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.06.03-11.10.54:904][175]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRGameMode.VRGameMode
+[2024.06.03-11.10.58:563][276]LogD3D12RHI: Creating RTPSO with 216 shaders (0 cached, 1 new) took 315.56 ms. Compile time 287.08 ms, link time 28.32 ms.
+[2024.06.03-11.10.59:130][304]LogD3D12RHI: Creating RTPSO with 216 shaders (1 cached, 0 new) took 15.74 ms. Compile time 0.07 ms, link time 15.38 ms.
+[2024.06.03-11.11.00:895][395]LogD3D12RHI: Creating RTPSO with 217 shaders (0 cached, 1 new) took 127.14 ms. Compile time 121.62 ms, link time 5.36 ms.
+[2024.06.03-11.11.02:565][484]LogD3D12RHI: Creating RTPSO with 218 shaders (0 cached, 1 new) took 21.84 ms. Compile time 15.83 ms, link time 5.89 ms.
+[2024.06.03-11.11.02:850][488]LogD3D12RHI: Creating RTPSO with 219 shaders (0 cached, 1 new) took 151.12 ms. Compile time 143.97 ms, link time 7.08 ms.
+[2024.06.03-11.11.21:519][358]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.06.03-11.12.41:466][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.03-11.12.41:659][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Iustins_Mission_Trigger] ([2] browsable assets)...
+[2024.06.03-11.12.41:659][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Iustins_Mission_Trigger]
+[2024.06.03-11.12.41:659][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Iustins_Mission_Trigger" FILE="../../../../../../Universitate/Uni/Content/Iustins_Mission_Trigger.uasset" SILENT=true
+[2024.06.03-11.12.41:677][641]LogSavePackage: Moving output files for package: /Game/Iustins_Mission_Trigger
+[2024.06.03-11.12.41:677][641]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/Iustins_Mission_Trigger7973CDF6404CBE27E8B022B19B0755F2.tmp' to '../../../../../../Universitate/Uni/Content/Iustins_Mission_Trigger.uasset'
+[2024.06.03-11.12.41:730][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 264.746 ms (total: 855.542 ms)
+[2024.06.03-11.12.41:890][641]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.03-11.12.41:891][641]LogContentValidation: Enabled validators:
+[2024.06.03-11.12.41:891][641]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.03-11.12.41:891][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.03-11.12.41:891][641]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.03-11.12.41:891][641]LogContentValidation: Display: Validating asset /Game/Iustins_Mission_Trigger.Iustins_Mission_Trigger
+[2024.06.03-11.12.41:891][641]AssetCheck: /Game/Iustins_Mission_Trigger Validating asset
+[2024.06.03-11.13.37:928][997]LogShaderCompilers: Display: ================================================
+[2024.06.03-11.13.37:929][997]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.03-11.13.37:929][997]LogShaderCompilers: Display: Total job queries 291, among them cache hits 75 (25.77%), DDC hits 190 (65.29%), Duplicates 5 (1.72%)
+[2024.06.03-11.13.37:929][997]LogShaderCompilers: Display: Tracking 211 distinct input hashes that result in 186 distinct outputs (88.15%)
+[2024.06.03-11.13.37:929][997]LogShaderCompilers: Display: RAM used: 6.49 MiB of 819.20 MiB budget. Usage: 0.79%
+[2024.06.03-11.13.37:929][997]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.03-11.13.37:929][997]LogShaderCompilers: Display: Shaders Compiled: 21
+[2024.06.03-11.13.37:929][997]LogShaderCompilers: Display: Jobs assigned 21, completed 21 (100%)
+[2024.06.03-11.13.37:929][997]LogShaderCompilers: Display: Average time worker was idle: 76733.57 s
+[2024.06.03-11.13.37:930][997]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2024.06.03-11.13.37:930][997]LogShaderCompilers: Display: Job execution time: average 2.93 s, max 6.06 s
+[2024.06.03-11.13.37:930][997]LogShaderCompilers: Display: Job life time (pending + execution): average 3.00 s, max 6.16
+[2024.06.03-11.13.37:930][997]LogShaderCompilers: Display: Shader code size: average 36.329 KiB, min 17.73 KiB, max 46.887 KiB
+[2024.06.03-11.13.37:930][997]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.36 s
+[2024.06.03-11.13.37:930][997]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2024.06.03-11.13.37:930][997]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display: Average processing rate: 1.28 jobs/sec
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display: Total thread time: 15.363 s
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display: Total thread preprocess time: 10.984 s
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display: Percentage time preprocessing: 71.50%
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display: Effective parallelization: 0.94 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.99 sec, max 1.28 sec, min 0.78 sec)
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.73 sec, max 1.10 sec, min 0.50 sec)
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.49 sec, max 0.66 sec, min 0.38 sec)
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.46 sec, max 0.57 sec, min 0.35 sec)
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 38.10% of total time (compiled    8 times, average 0.73 sec, max 1.10 sec, min 0.50 sec)
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 32.18% of total time (compiled    5 times, average 0.99 sec, max 1.28 sec, min 0.78 sec)
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.61% of total time (compiled    3 times, average 0.49 sec, max 0.66 sec, min 0.38 sec)
+[2024.06.03-11.13.37:931][997]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.00% of total time (compiled    2 times, average 0.46 sec, max 0.57 sec, min 0.35 sec)
+[2024.06.03-11.13.37:932][997]LogShaderCompilers: Display:                                                FAnisotropyPS - 4.81% of total time (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.06.03-11.13.37:932][997]LogShaderCompilers: Display: === Material stats ===
+[2024.06.03-11.13.37:932][997]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.06.03-11.13.37:932][997]LogShaderCompilers: Display: Materials Translated:    143
+[2024.06.03-11.13.37:932][997]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2024.06.03-11.13.37:932][997]LogShaderCompilers: Display: Material Translation Only: 0.08 s (37%)
+[2024.06.03-11.13.37:932][997]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.06.03-11.13.37:932][997]LogShaderCompilers: Display: Material Cache Hits: 21 (15%)
+[2024.06.03-11.13.37:932][997]LogShaderCompilers: Display: ================================================
+[2024.06.03-11.17.36:066][816]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2024.06.03-11.17.36:075][816]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/VRTemplateMap' took 0.182
+[2024.06.03-11.17.36:079][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Iustins_Mission_Trigger] ([2] browsable assets)...
+[2024.06.03-11.17.36:079][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Iustins_Mission_Trigger]
+[2024.06.03-11.17.36:079][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Iustins_Mission_Trigger" FILE="../../../../../../Universitate/Uni/Saved/Autosaves/Game/Iustins_Mission_Trigger_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.06.03-11.17.36:083][816]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Iustins_Mission_Trigger_Auto3
+[2024.06.03-11.17.36:083][816]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/Iustins_Mission_Trigger_Auto35B63572B43795225AC22589912270913.tmp' to '../../../../../../Universitate/Uni/Saved/Autosaves/Game/Iustins_Mission_Trigger_Auto3.uasset'
+[2024.06.03-11.17.36:085][816]LogFileHelpers: Auto-saving content packages took 0.007

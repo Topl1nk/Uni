@@ -1459,3 +1459,52 @@ The following settings have been applied:
 [2024.06.03-11.17.36:083][816]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Iustins_Mission_Trigger_Auto3
 [2024.06.03-11.17.36:083][816]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/Iustins_Mission_Trigger_Auto35B63572B43795225AC22589912270913.tmp' to '../../../../../../Universitate/Uni/Saved/Autosaves/Game/Iustins_Mission_Trigger_Auto3.uasset'
 [2024.06.03-11.17.36:085][816]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.06.03-11.37.46:383][ 53]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.06.04-14.36.07:159][ 53]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.06.04-14.36.10:794][ 53]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [97105 Seconds] waiting for h/w. InstanceID=1
+[2024.06.04-14.36.15:795][ 54]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.06.04-14.36.17:434][ 54]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8032
+[2024.06.04-14.36.17:456][ 54]LogAutomationController: Ignoring very large delta of 97115.29 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.04-14.36.17:706][ 54]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53187'.
+[2024.06.04-14.36.17:763][ 54]LogUdpMessaging: Display: Added local interface '192.168.178.192' to multicast group '230.0.0.1:6666'
+[2024.06.04-14.36.17:764][ 54]LogUdpMessaging: Display: Added local interface '172.24.32.1' to multicast group '230.0.0.1:6666'
+[2024.06.04-14.36.18:121][ 56]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{be363397-2453-4ffd-bcfe-06356e6d436b}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=616.14
+[2024.06.04-14.36.18:121][ 56]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.06.04-14.36.18:124][ 56]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.06.04-14.36.19:505][ 61]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.004 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.04-14.47.36:337][481]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2024.06.04-14.47.36:342][481]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/VRTemplateMap' took 0.145
+[2024.06.04-14.47.36:344][481]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2024.06.04-14.47.36:482][481]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2024.06.04-14.47.36:485][481]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2024.06.04-14.47.36:485][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../../Universitate/Uni/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.06.04-14.47.36:643][481]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto4
+[2024.06.04-14.47.36:643][481]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/VRPawn_Auto46F9A5DA94E2D8F589A0DCFA5911270BB.tmp' to '../../../../../../Universitate/Uni/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto4.uasset'
+[2024.06.04-14.47.36:646][481]LogFileHelpers: Auto-saving content packages took 0.304
+[2024.06.04-14.53.47:791][772]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-14.53.47:956][772]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2024.06.04-14.53.48:020][772]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2024.06.04-14.53.48:020][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2024.06.04-14.53.48:020][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../../Universitate/Uni/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2024.06.04-14.53.48:103][772]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.06.04-14.53.48:104][772]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/VRPawnBE4E79844A54E6B0515CB1922F859CEC.tmp' to '../../../../../../Universitate/Uni/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.06.04-14.53.48:126][772]LogFileHelpers: InternalPromptForCheckoutAndSave took 334.727 ms (total: 1.19 sec)
+[2024.06.04-14.53.48:261][772]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.04-14.53.48:261][772]LogContentValidation: Enabled validators:
+[2024.06.04-14.53.48:262][772]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-14.53.48:262][772]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-14.53.48:262][772]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-14.53.48:262][772]LogContentValidation: Display: Validating asset /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.06.04-14.53.48:264][772]AssetCheck: /Game/VRTemplate/Blueprints/VRPawn Validating asset
+[2024.06.04-14.57.36:960][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.06.04-14.57.36:965][994]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/VRTemplateMap' took 0.048
+[2024.06.04-14.57.36:967][994]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Iustins_Mission_Trigger] ([2] browsable assets)...
+[2024.06.04-14.57.36:967][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/Iustins_Mission_Trigger]
+[2024.06.04-14.57.36:967][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Iustins_Mission_Trigger" FILE="../../../../../../Universitate/Uni/Saved/Autosaves/Game/Iustins_Mission_Trigger_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.06.04-14.57.36:973][994]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Iustins_Mission_Trigger_Auto5
+[2024.06.04-14.57.36:973][994]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/Iustins_Mission_Trigger_Auto5B0C48E6747D856939B8BD9B687879D88.tmp' to '../../../../../../Universitate/Uni/Saved/Autosaves/Game/Iustins_Mission_Trigger_Auto5.uasset'
+[2024.06.04-14.57.36:973][994]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.06.04-15.36.19:502][997]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.04-16.36.19:505][794]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.04-17.36.19:505][591]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.04-18.36.19:506][388]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.

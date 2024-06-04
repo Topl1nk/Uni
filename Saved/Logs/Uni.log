@@ -1508,3 +1508,112 @@ The following settings have been applied:
 [2024.06.04-16.36.19:505][794]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
 [2024.06.04-17.36.19:505][591]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
 [2024.06.04-18.36.19:506][388]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.04-19.36.19:508][818]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.04-19.55.09:203][375]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Iustins_Mission_Trigger.Iustins_Mission_Trigger_C
+[2024.06.04-19.55.09:204][375]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Iustins_Mission_Trigger.Iustins_Mission_Trigger_C
+[2024.06.04-19.55.09:222][375]LogActorFactory: Actor Factory spawned Blueprint /Game/Iustins_Mission_Trigger.Iustins_Mission_Trigger as actor: Iustins_Mission_Trigger_C /Game/Levels/VRTemplateMap.VRTemplateMap:PersistentLevel.Iustins_Mission_Trigger_C_0
+[2024.06.04-19.55.09:231][375]LogActorFactory: Actor Factory spawned Blueprint /Game/Iustins_Mission_Trigger.Iustins_Mission_Trigger as actor: Iustins_Mission_Trigger_C /Game/Levels/VRTemplateMap.VRTemplateMap:PersistentLevel.Iustins_Mission_Trigger_C_0
+[2024.06.04-19.55.10:451][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2024.06.04-19.55.10:620][439]LogEditorActor: Deleted 0 Actors (0.266 secs)
+[2024.06.04-19.55.10:630][439]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Iustins_Mission_Trigger.Iustins_Mission_Trigger_C
+[2024.06.04-19.55.10:630][439]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Iustins_Mission_Trigger.Iustins_Mission_Trigger_C
+[2024.06.04-19.55.10:650][439]LogActorFactory: Actor Factory spawned Blueprint /Game/Iustins_Mission_Trigger.Iustins_Mission_Trigger as actor: Iustins_Mission_Trigger_C /Game/Levels/VRTemplateMap.VRTemplateMap:PersistentLevel.Iustins_Mission_Trigger_C_1
+[2024.06.04-19.55.10:651][439]LogActorFactory: Actor Factory spawned Blueprint /Game/Iustins_Mission_Trigger.Iustins_Mission_Trigger as actor: Iustins_Mission_Trigger_C /Game/Levels/VRTemplateMap.VRTemplateMap:PersistentLevel.Iustins_Mission_Trigger_C_1
+[2024.06.04-19.59.25:549][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.06.04-19.59.25:696][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/VRTemplateMap" FILE="../../../../../../Universitate/Uni/Saved/Autosaves/Game/Levels/VRTemplateMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.06.04-19.59.25:761][ 18]LogWorldPartition: Can't find class descriptor '/Game/Levels/VRTemplateMap.VRTemplateMap_C' for saving '/Game/Levels/VRTemplateMap.VRTemplateMap_C'
+[2024.06.04-19.59.25:761][ 18]LogWorldPartition: Can't find class descriptor '/Game/Levels/VRTemplateMap.VRTemplateMap_C' for saving '/Game/Levels/VRTemplateMap.VRTemplateMap_C'
+[2024.06.04-19.59.25:774][ 18]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/VRTemplateMap_Auto6
+[2024.06.04-19.59.25:774][ 18]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/VRTemplateMap_Auto6B68C84C04461690A53AD5CB8F05D3444.tmp' to '../../../../../../Universitate/Uni/Saved/Autosaves/Game/Levels/VRTemplateMap_Auto6.umap'
+[2024.06.04-19.59.25:776][ 18]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Universitate/Uni/Saved/Autosaves/Game/Levels/VRTemplateMap_Auto6.umap is in the /Temp path, will not scan.
+[2024.06.04-19.59.25:789][ 18]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/VRTemplateMap' took 0.267
+[2024.06.04-19.59.25:789][ 18]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.267
+[2024.06.04-19.59.25:790][ 18]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2024.06.04-19.59.25:854][ 18]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2024.06.04-19.59.25:854][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2024.06.04-19.59.25:854][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../../Universitate/Uni/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.06.04-19.59.25:971][ 18]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto6
+[2024.06.04-19.59.25:972][ 18]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/VRPawn_Auto663E6482445C6D61589FB30AF094251B9.tmp' to '../../../../../../Universitate/Uni/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto6.uasset'
+[2024.06.04-19.59.25:973][ 18]LogFileHelpers: Auto-saving content packages took 0.184
+[2024.06.04-20.02.24:153][995]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.06.04-20.02.24:174][995]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.06.04-20.02.24:194][995]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.06.04-20.02.24:207][995]LogAutomationController: Ignoring very large delta of 8.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.04-20.02.24:224][996]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.06.04-20.02.26:417][113]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2024.06.04-20.02.26:497][113]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.06.04-20.02.28:710][245]Cmd: TRANSACTION UNDO
+[2024.06.04-20.02.28:711][245]LogEditorTransaction: Undo Clicking on Elements
+[2024.06.04-20.02.29:640][271]Cmd: TRANSACTION UNDO
+[2024.06.04-20.02.29:640][271]LogEditorTransaction: Undo Clicking on Elements
+[2024.06.04-20.02.35:179][583]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2024.06.04-20.02.37:175][583]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-20.02.37:273][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.06.04-20.02.37:300][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.06.04-20.02.37:332][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.06.04-20.02.37:362][583]LogAutomationController: Ignoring very large delta of 2.25 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.04-20.03.18:677][142]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.06.04-20.03.18:692][142]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.06.04-20.03.18:708][142]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.06.04-20.03.18:712][142]LogAutomationController: Ignoring very large delta of 31.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.04-20.03.18:733][143]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.06.04-20.03.36:365][191]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WP_IustinsMission
+[2024.06.04-20.03.36:373][191]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.06.04-20.03.42:031][515]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WP_IustinsMission.WP_IustinsMission
+[2024.06.04-20.08.21:714][671]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.06.04-20.08.21:715][671]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.06.04-20.08.21:722][671]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.06.04-20.08.21:797][672]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.06.04-20.08.21:819][672]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.06.04-20.08.21:910][674]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.06.04-20.08.21:919][675]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.06.04-20.08.22:016][677]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.06.04-20.08.22:019][677]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.06.04-20.08.22:085][678]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.06.04-20.08.22:106][678]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.06.04-20.08.22:198][680]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.06.04-20.08.22:210][681]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.06.04-20.10.01:550][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.06.04-20.10.01:561][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/VRTemplateMap" FILE="../../../../../../Universitate/Uni/Saved/Autosaves/Game/Levels/VRTemplateMap_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.06.04-20.10.01:574][742]LogWorldPartition: Can't find class descriptor '/Game/Levels/VRTemplateMap.VRTemplateMap_C' for saving '/Game/Levels/VRTemplateMap.VRTemplateMap_C'
+[2024.06.04-20.10.01:574][742]LogWorldPartition: Can't find class descriptor '/Game/Levels/VRTemplateMap.VRTemplateMap_C' for saving '/Game/Levels/VRTemplateMap.VRTemplateMap_C'
+[2024.06.04-20.10.01:587][742]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/VRTemplateMap_Auto7
+[2024.06.04-20.10.01:587][742]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/VRTemplateMap_Auto7E7976D2C458AE8D33F754EA72429276B.tmp' to '../../../../../../Universitate/Uni/Saved/Autosaves/Game/Levels/VRTemplateMap_Auto7.umap'
+[2024.06.04-20.10.01:589][742]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Universitate/Uni/Saved/Autosaves/Game/Levels/VRTemplateMap_Auto7.umap is in the /Temp path, will not scan.
+[2024.06.04-20.10.01:592][742]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/VRTemplateMap' took 0.096
+[2024.06.04-20.10.01:592][742]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2024.06.04-20.10.01:593][742]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2024.06.04-20.10.01:593][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2024.06.04-20.10.01:593][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../../Universitate/Uni/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.06.04-20.10.01:672][742]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto7
+[2024.06.04-20.10.01:672][742]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/VRPawn_Auto716A2882F46D86CB6BB1482B5548B2AB3.tmp' to '../../../../../../Universitate/Uni/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto7.uasset'
+[2024.06.04-20.10.01:673][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Iustins_Mission_Trigger] ([2] browsable assets)...
+[2024.06.04-20.10.01:673][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Iustins_Mission_Trigger]
+[2024.06.04-20.10.01:673][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Iustins_Mission_Trigger" FILE="../../../../../../Universitate/Uni/Saved/Autosaves/Game/Iustins_Mission_Trigger_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.06.04-20.10.01:678][742]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Iustins_Mission_Trigger_Auto7
+[2024.06.04-20.10.01:678][742]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/Iustins_Mission_Trigger_Auto747FAABD74018AC9DE7A5FB9C08A8463B.tmp' to '../../../../../../Universitate/Uni/Saved/Autosaves/Game/Iustins_Mission_Trigger_Auto7.uasset'
+[2024.06.04-20.10.01:678][742]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WP_IustinsMission] ([2] browsable assets)...
+[2024.06.04-20.10.01:698][742]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WP_IustinsMission.WP_IustinsMission]
+[2024.06.04-20.10.01:700][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/WP_IustinsMission]
+[2024.06.04-20.10.01:700][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WP_IustinsMission" FILE="../../../../../../Universitate/Uni/Saved/Autosaves/Game/WP_IustinsMission_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.06.04-20.10.01:707][742]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WP_IustinsMission_Auto7
+[2024.06.04-20.10.01:707][742]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/WP_IustinsMission_Auto7EB6044E74DBD9992E34FDC8654A4A3BB.tmp' to '../../../../../../Universitate/Uni/Saved/Autosaves/Game/WP_IustinsMission_Auto7.uasset'
+[2024.06.04-20.10.01:707][742]LogFileHelpers: Auto-saving content packages took 0.116
+[2024.06.04-20.11.24:298][474]LogEditorTransaction: Undo Move Node
+[2024.06.04-20.11.25:180][484]LogEditorTransaction: Undo Variable Toggle
+[2024.06.04-20.11.27:322][600]LogEditorTransaction: Undo Rename Widget
+[2024.06.04-20.11.30:290][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-20.11.30:463][769]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2024.06.04-20.11.30:640][769]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2024.06.04-20.11.30:640][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2024.06.04-20.11.30:640][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../../Universitate/Uni/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2024.06.04-20.11.30:750][769]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.06.04-20.11.30:751][769]LogSavePackage: Moving '../../../../../../Universitate/Uni/Saved/VRPawn929AF4054325768E40B5F5B933E74EFD.tmp' to '../../../../../../Universitate/Uni/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.06.04-20.11.30:763][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 472.977 ms (total: 1.66 sec)
+[2024.06.04-20.11.30:870][769]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.04-20.11.30:871][769]LogContentValidation: Enabled validators:
+[2024.06.04-20.11.30:871][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-20.11.30:871][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-20.11.30:871][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-20.11.30:871][769]LogContentValidation: Display: Validating asset /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.06.04-20.11.30:871][769]AssetCheck: /Game/VRTemplate/Blueprints/VRPawn Validating asset

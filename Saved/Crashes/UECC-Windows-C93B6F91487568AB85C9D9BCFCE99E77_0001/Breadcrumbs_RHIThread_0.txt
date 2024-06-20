@@ -1,0 +1,12 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 FRDGBuilder_Execute
+	01 Scene
+	02 Scene
+	03 LumenSceneUpdate: 2 card captures 0.016M texels
+	04 Lights
+	05 DirectLighting
+	06 UnbatchedLights
+	07 VRTemplateMap.BP_DynamicVolumetricSky
+	08 ShadowBatch
+	09 VRTemplateMap.BP_DynamicVolumetricSky
